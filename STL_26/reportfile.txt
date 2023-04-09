@@ -1,0 +1,2 @@
+
+REPORT: The most often word in text is [sed] meets [5855] times.
